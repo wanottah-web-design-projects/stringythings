@@ -1,0 +1,379 @@
+/* CSS Document */
+
+/* <!-- // bof: Main body // --> */
+body {
+	width:100%;
+	background:#192330 url('') left top repeat;
+	color:#979a9e;
+	font-family:Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:11px; font-style:normal;
+	text-align:center;
+	margin:0; margin-bottom:10px; padding:0px;
+	}
+/* <!-- // eof: Main body // --> */
+
+/* <!-- // bof: Classes // --> */
+.textbox {
+	color: #000000;
+	background-color: #F4F7FA;
+	font: 11px verdana, tahoma, arial, helvetica, sans-serif;
+	}
+/* <!-- // eof: Classes // --> */
+
+/* This "container" is needed as IE produces resize induced rendering errors when using the BODY element for a container. */ 
+#container {
+	margin:0 auto;
+	text-align:left;
+	border: thin solid #253448;
+	background:#253448 url('http://us.st11.yimg.com/us.st.yimg.com/I/yhst-70528576697655_1974_34221') 0 0 repeat-x;
+	}
+
+#header {
+	background:#151c22;
+	background-image:url(../../images/layout/logo/header.gif);
+	}
+
+#logo_image {
+	text-align:center;
+	}
+
+#company_name {
+	font-size:24px;
+	color:#ffffff;
+	text-align:center;
+	}
+
+#string_art_kits {
+	font-size:16px;
+	color:#ffffff;
+	text-align:center;
+	}
+
+#breadcrumb_bar {
+	border-top:none;
+	border-bottom:solid thin #253448;
+	background-image:url(../../images/layout/body/breadcrumb_bar.gif);
+	}
+	
+#breadcrumb_links {
+	background:transparent;
+	font-size:11px;
+	text-align:left;
+	padding:3px 0px 5px 8px;
+	}
+
+#breadcrumb_links a {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+#breadcrumb_links a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#top_link_bar {
+	background-image:url(../../images/layout/body/link_bar.gif);
+	}
+
+#top_link_bar a {
+	background:transparent;
+	background-image:url(../../images/layout/buttons/right_nav_button_off.gif);
+	color:#d4a84b;
+	display:block;
+	font-size:11px;
+	margin:0 0;
+	padding:10px 0px 12px 30px;
+	text-align:left;
+	text-decoration:none;
+	}
+	
+#top_link_bar a:hover {
+	background:transparent;
+	background-image:url(../../images/layout/buttons/right_nav_button_on.gif);
+	color:#d29d58;
+	}
+
+#date_text {
+	text-align:right;
+	font-size:9px;
+	padding:0px 5px 4px 0px;
+	}
+
+/* The Min-width is needed for Moz to stretch the bodycontent that is shrinkwrapping content */
+/* due to floats. This is only necessary on pages without Tables in the contents. */
+/* Min-width breaks Opera's layout so Width:100% is used instead of Min-width. */
+/* 150 + 610 = 760 */
+#bodycontent {
+	width:430px;
+	}
+
+#content_title {
+	background:none;
+	color:#b0a071;
+	font:bold 14px Tahoma, Geneva, Verdana, sans-serif;
+	padding:15px 0px 0px 15px;
+	}
+
+#content_items {
+	height:600px;
+	margin-bottom:42px;
+	}
+
+#content_items a {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+#content_items a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#privacy_content {
+	margin-bottom:42px;
+	}
+
+#general_links a {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+#general_links a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#disabled_link {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+/*Left Column Color*/
+/* Background color is needed to counter an IE rendering bug that erases the left column bgcolor */
+/* float:left is needed in Moz to handle extra wide cntent that breaks the width */
+/* Left/Right Margin was removed due to expanded content errors in Moz */
+/* this was used to push the nav/content area in to match the mock-up */
+#bodyshell {
+	background:transparent;
+	margin:0 0 0px;
+	}
+
+#user_login {
+	float:left;
+	background:none;
+	color: #fff;  
+	margin-left:-160px;
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	height: auto !important;
+	height: 600px;
+	}
+
+#input_form {
+	background:none;
+	color: #fff;  
+	margin-left:-160px;
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	height: auto !important;
+	height: 600px;
+	}
+
+#navigation_columns {
+	height:600px;
+	}
+
+#left_column {
+	background-image:url(../../images/layout/body/left_column.gif);
+	}
+
+#thin_left_column {
+	background-image:url(../../images/layout/body/thin_left_column.gif);
+	}
+
+#right_column {
+	background-image:url(../../images/layout/body/right_column.gif);
+	}
+
+#thin_right_column {
+	background-image:url(../../images/layout/body/thin_right_column.gif);
+	}
+	
+/* IE Experiences the pixel doubling bug here. */
+/* "display: inline;" fixes this. */
+/* Position Relative and Z-Index are needed for IE in order to display the background colors */
+#left_navigation_column {
+	float:left;
+	background:none;
+	color: #fff;  
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	}
+
+#right_navigation_column {
+	float:right;
+	background:none;
+	color: #fff;  
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	}
+
+#search {
+	float:right;
+	background:none;
+	color: #fff;  
+	text-align:left;
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	}
+
+.left_navigation_button a {
+	background:transparent;
+	background-image:url(../../images/layout/buttons/left_nav_button_off.gif);
+	border-bottom:1px dotted #d4a84b;
+	color:#d4a84b;
+	display:block;
+	font-size:11px;
+	margin:0 0;
+	padding:10px 30px 12px 0px;
+	text-align:right;
+	text-decoration:none;
+	}
+	
+.left_navigation_button a:hover {
+	color:#d29d58;
+	background-image:url(../../images/layout/buttons/left_nav_button_on.gif);
+	}
+
+.right_navigation_button a {
+	background:transparent;
+	background-image:url(../../images/layout/buttons/right_nav_button_off.gif);
+	border-bottom:1px dotted #d4a84b;
+	color:#d4a84b;
+	display:block;
+	font-size:11px;
+	margin:0 0;
+	padding:10px 0px 12px 30px;
+	text-align:left;
+	text-decoration:none;
+	}
+	
+.right_navigation_button a:hover {
+	color:#d29d58;
+	background-image:url(../../images/layout/buttons/right_nav_button_on.gif);
+	}
+
+.disabled_left_navigation_button {
+	background:transparent;
+	border-bottom:1px dotted #d4a84b;
+	color:#d4a84b;
+	font-size:11px;
+	margin:0 0;
+	padding:0px 30px 0px 0px;/*10 30 12 0*/
+	vertical-align:middle;
+	text-align:right;
+	text-decoration:none;
+	}
+
+.disabled_right_navigation_button {
+	background:transparent;
+	border-bottom:1px dotted #d4a84b;
+	color:#d4a84b;
+	font-size:11px;
+	margin:0 0;
+	padding:0px 0px 0px 30px;
+	text-align:left;
+	vertical-align:middle;
+	text-decoration:none;
+	}
+
+#yahoo_logo {
+	float:right;
+	background:none;
+	color: #fff;  
+	overflow:hidden;
+	position:relative;
+	width:160px;
+	z-index:100;
+	margin: 0 auto;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+#paypal_logo {
+	margin: 0 auto;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+#paypal_shoppingcart {
+	text-align:center;
+	vertical-align:middle;
+	}
+
+#bottom_link_bar {
+	background:transparent;
+	background-image:url(../../images/layout/body/link_bar.gif);
+	font-size:11px;
+	text-align:center;
+	}
+
+#bottom_link_bar a {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+#bottom_link_bar a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#footer {
+	background:transparent;
+	background-image:url(../../images/layout/body/footer.gif);
+	border-top:none;
+	color:#838384;
+	display:block;
+	font:normal xx-small/1.2 verdana, sans-serif;
+	}
+
+#copyright {
+	text-align:center;
+	padding:5px;
+	}
+
+#last_updated {
+	text-align:left;
+	padding:0px 0px 0px 5px;
+	}
+
+#orb-weaver {
+	text-align:right;
+	padding:0px 5px 0px 0px;
+	}
+
+/*#orb-weaver_link a {
+	background:transparent;
+	color:#838384;
+	text-decoration:none;
+	}
+	
+#orb-weaver_link a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}*/

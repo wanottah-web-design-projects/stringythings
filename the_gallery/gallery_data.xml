@@ -1,0 +1,1522 @@
+<gallery>
+
+	<!-- The line below sets the path to the folder where the images are stored -->
+	<setup path="string_art_collection/">
+	
+	<!-- The the following lines are used to customize the look of the gallery -->
+     	<imgHeight>370</imgHeight>
+		<imgWidth>370</imgWidth>
+      	
+		<thumbHeight>50</thumbHeight>
+      	<thumbWidth>50</thumbWidth>
+      	
+		<transitionType>fade</transitionType>
+     	<thumbnailRows>1</thumbnailRows>
+		<thumbPosition>bottom</thumbPosition>
+		<showControls>true</showControls>
+		<scaleToFit>true</scaleToFit>
+	</setup>
+
+	<!-- The following lines set the names of your images and thumbnails -->
+
+	<item>
+		<thumb>t1.jpg</thumb>
+		<img>1.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t2.jpg</thumb>
+		<img>2.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t3.jpg</thumb>
+		<img>3.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t4.jpg</thumb>
+		<img>4.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t5.jpg</thumb>
+		<img>5.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t6.jpg</thumb>
+		<img>6.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t7.jpg</thumb>
+		<img>7.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t8.jpg</thumb>
+		<img>8.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t9.jpg</thumb>
+		<img>9.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t10.jpg</thumb>
+		<img>10.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t11.jpg</thumb>
+		<img>11.jpg</img>
+	</item>
+	
+	<item>
+		<thumb>t12.jpg</thumb>
+		<img>12.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t13.jpg</thumb>
+		<img>13.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t14.jpg</thumb>
+		<img>14.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t15.jpg</thumb>
+		<img>15.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t16.jpg</thumb>
+		<img>16.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t17.jpg</thumb>
+		<img>17.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t18.jpg</thumb>
+		<img>18.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t19.jpg</thumb>
+		<img>19.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t20.jpg</thumb>
+		<img>20.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t21.jpg</thumb>
+		<img>21.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t22.jpg</thumb>
+		<img>22.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t23.jpg</thumb>
+		<img>23.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t24.jpg</thumb>
+		<img>24.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t25.jpg</thumb>
+		<img>25.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t26.jpg</thumb>
+		<img>26.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t27.jpg</thumb>
+		<img>27.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t28.jpg</thumb>
+		<img>28.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t29.jpg</thumb>
+		<img>29.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t30.jpg</thumb>
+		<img>30.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t31.jpg</thumb>
+		<img>31.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t32.jpg</thumb>
+		<img>32.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t33.jpg</thumb>
+		<img>33.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t34.jpg</thumb>
+		<img>34.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t35.jpg</thumb>
+		<img>35.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t36.jpg</thumb>
+		<img>36.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t37.jpg</thumb>
+		<img>37.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t38.jpg</thumb>
+		<img>38.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t39.jpg</thumb>
+		<img>39.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t40.jpg</thumb>
+		<img>40.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t41.jpg</thumb>
+		<img>41.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t42.jpg</thumb>
+		<img>42.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t43.jpg</thumb>
+		<img>43.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t44.jpg</thumb>
+		<img>44.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t45.jpg</thumb>
+		<img>45.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t46.jpg</thumb>
+		<img>46.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t47.jpg</thumb>
+		<img>47.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t48.jpg</thumb>
+		<img>48.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t49.jpg</thumb>
+		<img>49.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t50.jpg</thumb>
+		<img>50.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t51.jpg</thumb>
+		<img>51.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t52.jpg</thumb>
+		<img>52.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t53.jpg</thumb>
+		<img>53.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t54.jpg</thumb>
+		<img>54.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t55.jpg</thumb>
+		<img>55.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t56.jpg</thumb>
+		<img>56.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t57.jpg</thumb>
+		<img>57.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t58.jpg</thumb>
+		<img>58.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t59.jpg</thumb>
+		<img>59.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t60.jpg</thumb>
+		<img>60.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t61.jpg</thumb>
+		<img>61.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t62.jpg</thumb>
+		<img>62.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t63.jpg</thumb>
+		<img>63.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t64.jpg</thumb>
+		<img>64.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t65.jpg</thumb>
+		<img>65.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t66.jpg</thumb>
+		<img>66.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t67.jpg</thumb>
+		<img>67.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t68.jpg</thumb>
+		<img>68.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t69.jpg</thumb>
+		<img>69.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t70.jpg</thumb>
+		<img>70.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t71.jpg</thumb>
+		<img>71.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t72.jpg</thumb>
+		<img>72.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t73.jpg</thumb>
+		<img>73.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t74.jpg</thumb>
+		<img>74.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t75.jpg</thumb>
+		<img>75.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t76.jpg</thumb>
+		<img>76.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t77.jpg</thumb>
+		<img>77.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t78.jpg</thumb>
+		<img>78.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t79.jpg</thumb>
+		<img>79.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t80.jpg</thumb>
+		<img>80.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t81.jpg</thumb>
+		<img>81.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t82.jpg</thumb>
+		<img>82.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t83.jpg</thumb>
+		<img>83.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t84.jpg</thumb>
+		<img>84.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t85.jpg</thumb>
+		<img>85.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t86.jpg</thumb>
+		<img>86.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t87.jpg</thumb>
+		<img>87.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t88.jpg</thumb>
+		<img>88.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t89.jpg</thumb>
+		<img>89.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t90.jpg</thumb>
+		<img>90.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t91.jpg</thumb>
+		<img>91.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t92.jpg</thumb>
+		<img>92.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t93.jpg</thumb>
+		<img>93.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t94.jpg</thumb>
+		<img>94.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t95.jpg</thumb>
+		<img>95.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t96.jpg</thumb>
+		<img>96.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t97.jpg</thumb>
+		<img>97.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t98.jpg</thumb>
+		<img>98.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t99.jpg</thumb>
+		<img>99.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t100.jpg</thumb>
+		<img>100.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t101.jpg</thumb>
+		<img>101.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t102.jpg</thumb>
+		<img>102.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t103.jpg</thumb>
+		<img>103.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t104.jpg</thumb>
+		<img>104.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t105.jpg</thumb>
+		<img>105.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t106.jpg</thumb>
+		<img>106.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t107.jpg</thumb>
+		<img>107.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t108.jpg</thumb>
+		<img>108.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t109.jpg</thumb>
+		<img>109.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t110.jpg</thumb>
+		<img>110.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t111.jpg</thumb>
+		<img>111.jpg</img>
+	</item>
+	
+	<item>
+		<thumb>t112.jpg</thumb>
+		<img>112.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t113.jpg</thumb>
+		<img>113.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t114.jpg</thumb>
+		<img>114.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t115.jpg</thumb>
+		<img>115.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t116.jpg</thumb>
+		<img>116.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t117.jpg</thumb>
+		<img>117.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t118.jpg</thumb>
+		<img>118.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t119.jpg</thumb>
+		<img>119.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t120.jpg</thumb>
+		<img>120.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t121.jpg</thumb>
+		<img>121.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t122.jpg</thumb>
+		<img>122.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t123.jpg</thumb>
+		<img>123.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t124.jpg</thumb>
+		<img>124.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t125.jpg</thumb>
+		<img>125.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t126.jpg</thumb>
+		<img>126.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t127.jpg</thumb>
+		<img>127.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t128.jpg</thumb>
+		<img>128.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t129.jpg</thumb>
+		<img>129.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t130.jpg</thumb>
+		<img>130.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t131.jpg</thumb>
+		<img>131.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t132.jpg</thumb>
+		<img>132.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t133.jpg</thumb>
+		<img>133.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t134.jpg</thumb>
+		<img>134.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t135.jpg</thumb>
+		<img>135.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t136.jpg</thumb>
+		<img>136.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t137.jpg</thumb>
+		<img>137.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t138.jpg</thumb>
+		<img>138.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t139.jpg</thumb>
+		<img>139.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t140.jpg</thumb>
+		<img>140.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t141.jpg</thumb>
+		<img>141.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t142.jpg</thumb>
+		<img>142.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t143.jpg</thumb>
+		<img>143.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t144.jpg</thumb>
+		<img>144.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t145.jpg</thumb>
+		<img>145.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t146.jpg</thumb>
+		<img>146.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t147.jpg</thumb>
+		<img>147.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t148.jpg</thumb>
+		<img>148.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t149.jpg</thumb>
+		<img>149.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t150.jpg</thumb>
+		<img>150.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t151.jpg</thumb>
+		<img>151.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t152.jpg</thumb>
+		<img>152.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t153.jpg</thumb>
+		<img>153.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t154.jpg</thumb>
+		<img>154.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t155.jpg</thumb>
+		<img>155.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t156.jpg</thumb>
+		<img>156.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t157.jpg</thumb>
+		<img>157.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t158.jpg</thumb>
+		<img>158.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t159.jpg</thumb>
+		<img>159.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t160.jpg</thumb>
+		<img>160.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t161.jpg</thumb>
+		<img>161.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t162.jpg</thumb>
+		<img>162.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t163.jpg</thumb>
+		<img>163.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t164.jpg</thumb>
+		<img>164.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t165.jpg</thumb>
+		<img>165.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t166.jpg</thumb>
+		<img>166.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t167.jpg</thumb>
+		<img>167.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t168.jpg</thumb>
+		<img>168.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t169.jpg</thumb>
+		<img>169.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t170.jpg</thumb>
+		<img>170.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t171.jpg</thumb>
+		<img>171.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t172.jpg</thumb>
+		<img>172.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t173.jpg</thumb>
+		<img>173.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t174.jpg</thumb>
+		<img>174.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t175.jpg</thumb>
+		<img>175.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t176.jpg</thumb>
+		<img>176.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t177.jpg</thumb>
+		<img>177.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t178.jpg</thumb>
+		<img>178.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t179.jpg</thumb>
+		<img>179.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t180.jpg</thumb>
+		<img>180.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t181.jpg</thumb>
+		<img>181.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t182.jpg</thumb>
+		<img>182.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t183.jpg</thumb>
+		<img>183.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t184.jpg</thumb>
+		<img>184.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t185.jpg</thumb>
+		<img>185.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t186.jpg</thumb>
+		<img>186.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t187.jpg</thumb>
+		<img>187.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t188.jpg</thumb>
+		<img>188.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t189.jpg</thumb>
+		<img>189.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t190.jpg</thumb>
+		<img>190.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t191.jpg</thumb>
+		<img>191.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t192.jpg</thumb>
+		<img>192.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t193.jpg</thumb>
+		<img>193.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t194.jpg</thumb>
+		<img>194.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t195.jpg</thumb>
+		<img>195.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t196.jpg</thumb>
+		<img>196.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t197.jpg</thumb>
+		<img>197.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t198.jpg</thumb>
+		<img>198.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t199.jpg</thumb>
+		<img>199.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t200.jpg</thumb>
+		<img>200.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t201.jpg</thumb>
+		<img>201.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t202.jpg</thumb>
+		<img>202.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t203.jpg</thumb>
+		<img>203.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t204.jpg</thumb>
+		<img>204.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t205.jpg</thumb>
+		<img>205.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t206.jpg</thumb>
+		<img>206.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t207.jpg</thumb>
+		<img>207.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t208.jpg</thumb>
+		<img>208.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t209.jpg</thumb>
+		<img>209.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t210.jpg</thumb>
+		<img>210.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t211.jpg</thumb>
+		<img>211.jpg</img>
+	</item>
+	
+	<item>
+		<thumb>t212.jpg</thumb>
+		<img>212.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t213.jpg</thumb>
+		<img>213.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t214.jpg</thumb>
+		<img>214.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t215.jpg</thumb>
+		<img>215.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t216.jpg</thumb>
+		<img>216.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t217.jpg</thumb>
+		<img>217.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t218.jpg</thumb>
+		<img>218.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t219.jpg</thumb>
+		<img>219.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t220.jpg</thumb>
+		<img>220.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t221.jpg</thumb>
+		<img>221.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t222.jpg</thumb>
+		<img>222.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t223.jpg</thumb>
+		<img>223.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t224.jpg</thumb>
+		<img>224.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t225.jpg</thumb>
+		<img>225.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t226.jpg</thumb>
+		<img>226.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t227.jpg</thumb>
+		<img>227.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t228.jpg</thumb>
+		<img>228.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t229.jpg</thumb>
+		<img>229.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t230.jpg</thumb>
+		<img>230.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t231.jpg</thumb>
+		<img>231.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t232.jpg</thumb>
+		<img>232.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t233.jpg</thumb>
+		<img>233.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t234.jpg</thumb>
+		<img>234.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t235.jpg</thumb>
+		<img>235.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t236.jpg</thumb>
+		<img>236.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t237.jpg</thumb>
+		<img>237.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t238.jpg</thumb>
+		<img>238.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t239.jpg</thumb>
+		<img>239.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t240.jpg</thumb>
+		<img>240.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t241.jpg</thumb>
+		<img>241.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t242.jpg</thumb>
+		<img>242.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t243.jpg</thumb>
+		<img>243.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t244.jpg</thumb>
+		<img>244.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t245.jpg</thumb>
+		<img>245.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t246.jpg</thumb>
+		<img>246.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t247.jpg</thumb>
+		<img>247.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t248.jpg</thumb>
+		<img>248.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t249.jpg</thumb>
+		<img>249.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t250.jpg</thumb>
+		<img>250.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t251.jpg</thumb>
+		<img>251.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t252.jpg</thumb>
+		<img>252.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t253.jpg</thumb>
+		<img>253.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t254.jpg</thumb>
+		<img>254.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t255.jpg</thumb>
+		<img>255.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t256.jpg</thumb>
+		<img>256.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t257.jpg</thumb>
+		<img>257.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t258.jpg</thumb>
+		<img>258.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t259.jpg</thumb>
+		<img>259.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t260.jpg</thumb>
+		<img>260.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t261.jpg</thumb>
+		<img>261.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t262.jpg</thumb>
+		<img>262.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t263.jpg</thumb>
+		<img>263.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t264.jpg</thumb>
+		<img>264.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t265.jpg</thumb>
+		<img>265.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t266.jpg</thumb>
+		<img>266.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t267.jpg</thumb>
+		<img>267.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t268.jpg</thumb>
+		<img>268.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t269.jpg</thumb>
+		<img>269.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t270.jpg</thumb>
+		<img>270.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t271.jpg</thumb>
+		<img>271.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t272.jpg</thumb>
+		<img>272.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t273.jpg</thumb>
+		<img>273.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t274.jpg</thumb>
+		<img>274.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t275.jpg</thumb>
+		<img>275.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t276.jpg</thumb>
+		<img>276.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t277.jpg</thumb>
+		<img>277.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t278.jpg</thumb>
+		<img>278.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t279.jpg</thumb>
+		<img>279.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t280.jpg</thumb>
+		<img>280.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t281.jpg</thumb>
+		<img>281.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t282.jpg</thumb>
+		<img>282.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t283.jpg</thumb>
+		<img>283.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t284.jpg</thumb>
+		<img>284.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t285.jpg</thumb>
+		<img>285.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t286.jpg</thumb>
+		<img>286.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t287.jpg</thumb>
+		<img>287.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t288.jpg</thumb>
+		<img>288.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t289.jpg</thumb>
+		<img>289.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t290.jpg</thumb>
+		<img>290.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t291.jpg</thumb>
+		<img>291.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t292.jpg</thumb>
+		<img>292.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t293.jpg</thumb>
+		<img>923.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t294.jpg</thumb>
+		<img>294.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t295.jpg</thumb>
+		<img>295.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t296.jpg</thumb>
+		<img>296.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t297.jpg</thumb>
+		<img>297.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t298.jpg</thumb>
+		<img>298.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t299.jpg</thumb>
+		<img>299.jpg</img>
+	</item>
+
+	<item>
+		<thumb>t300.jpg</thumb>
+		<img>300.jpg</img>
+	</item>
+
+</gallery>
